@@ -1,3 +1,6 @@
+# ignore all output .js files
+*.out.js
+
 # Logs
 logs
 *.log
